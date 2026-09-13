@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="voxtext-cover.png" alt="VoxText cover" width="100%">
+  <img src="VoxText%20Cover.png" alt="VoxText cover" width="100%">
 </p>
 
 # VoxText
