@@ -1,0 +1,43 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs
+logs/
+*.log
+
+# Temporary files, exports, and generated audio
+temp/
+tmp/
+exports/
+generated_audio/
+*.mp3
+*.ogg
+*.wav
+
+# SQLite databases
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

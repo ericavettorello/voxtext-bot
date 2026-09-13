@@ -1,0 +1,11 @@
+aiogram==3.31.0
+python-dotenv==1.2.3
+elevenlabs==2.66.0
+httpx==0.28.1
+aiofiles==25.1.0
+aiosqlite==0.22.1
+pydub==0.25.1
+imageio-ffmpeg==0.6.0
+python-docx==1.2.0
+charset-normalizer==3.5.1
+pypdf==6.18.0
